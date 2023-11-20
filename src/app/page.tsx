@@ -64,7 +64,7 @@ export default function Home() {
             target="_blank"
             className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border hover:border-green-500 hover:text-green-500"
           >
-            Contacto
+            WhatsApp
           </Link>
         </div>
       <div className="pt-10 pb-5">
