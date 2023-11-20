@@ -3,7 +3,7 @@ import Footer from "./components/Footer";
 
 export default function Home() {
   return (
-    <section className="bg-gray-700 px-4">
+    <section className="bg-gradient-to-b from-black to-gray-700 px-4">
       <div className="h-screen text-center pt-14 pb-7">
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
           Facundo Guardia
@@ -67,7 +67,7 @@ export default function Home() {
             Contacto
           </Link>
         </div>
-      <div className="pt-16">
+      <div className="pt-10 pb-5">
         <Footer />
       </div>
       </div>
