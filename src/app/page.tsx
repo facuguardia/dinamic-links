@@ -4,14 +4,14 @@ import Footer from "./components/Footer";
 export default function Home() {
   return (
     <section className="bg-gray-700 px-4">
-      <div className="h-screen text-center pt-14">
+      <div className="h-screen text-center pt-14 pb-7">
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
           Facundo Guardia
         </h1>
         <h2 className="mb-4 font-extrabold tracking-tight leading-none text-green-500 text-xl">
           Frontend Developer
         </h2>
-        <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
+        <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">npm
           Apasionado por la tecnología y el desarrollo web. Me encanta aprender
           cosas nuevas y poder aplicarlas en mis proyectos.
           <br />
