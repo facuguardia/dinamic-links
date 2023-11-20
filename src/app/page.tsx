@@ -11,7 +11,7 @@ export default function Home() {
         <h2 className="mb-4 font-extrabold tracking-tight leading-none text-green-500 text-xl">
           Frontend Developer
         </h2>
-        <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">npm
+        <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
           Apasionado por la tecnología y el desarrollo web. Me encanta aprender
           cosas nuevas y poder aplicarlas en mis proyectos.
           <br />
@@ -67,9 +67,9 @@ export default function Home() {
             WhatsApp
           </Link>
         </div>
-      <div className="pt-10 pb-5">
-        <Footer />
-      </div>
+        <div className="pt-10 pb-5">
+          <Footer />
+        </div>
       </div>
     </section>
   );
