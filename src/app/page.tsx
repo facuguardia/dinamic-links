@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 export default function Home() {
   return (
     <section className="bg-gray-700 p-2">
-      <div className="h-screen text-center py-24 lg:py-56">
+      <div className="h-screen text-center pt-24">
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
           Facundo Guardia
         </h1>
@@ -18,7 +18,7 @@ export default function Home() {
           <br />
           Te dejo mis redes sociales para que puedas contactarme.
         </p>
-        <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 lg:gap-4">
+        <div className="flex flex-col sm:flex-row sm:justify-center lg:gap-4">
           <Link
             href="https://www.facebook.com/facu.guardia.86/"
             target="_blank"
@@ -67,9 +67,9 @@ export default function Home() {
             Contacto
           </Link>
         </div>
-      </div>
-      <div>
+      <div className="pt-16">
         <Footer />
+      </div>
       </div>
     </section>
   );
