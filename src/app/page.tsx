@@ -3,13 +3,13 @@ import Footer from "./components/Footer";
 
 export default function Home() {
   return (
-    <section className="bg-gradient-to-b from-black to-gray-700 px-4">
+    <section className="bg-black px-4">
       <div className="h-screen text-center pt-14 pb-7">
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
-          Facundo Guardia
+          Facu Guardia
         </h1>
         <h2 className="mb-4 font-extrabold tracking-tight leading-none text-green-500 text-xl">
-          Frontend Developer
+          Developer Designer Frontend
         </h2>
         <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
           Apasionado por la tecnología y el desarrollo web. Me encanta aprender
@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border hover:border-yellow-500 hover:text-yellow-500"
           >
-            Proyectos
+            Portfolio
           </Link>
 
           <Link
