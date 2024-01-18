@@ -9,7 +9,7 @@ export default function Home() {
           Facu Guardia
         </h1>
         <h2 className="mb-4 font-extrabold tracking-tight leading-none text-green-500 text-xl">
-          Developer Designer Frontend
+          Frontend Developer Mobile & Web
         </h2>
         <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
           Apasionado por la tecnología y el desarrollo web. Me encanta aprender
@@ -25,14 +25,6 @@ export default function Home() {
             className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border hover:border-blue-600 hover:text-blue-600"
           >
             Facebook
-          </Link>
-
-          <Link
-            href="https://www.instagram.com/facu_guardia/"
-            target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border hover:border-orange-500 hover:text-orange-500"
-          >
-            Instagram
           </Link>
 
           <Link
@@ -60,7 +52,7 @@ export default function Home() {
           </Link>
 
           <Link
-            href="https://bit.ly/3yxOSR4"
+            href="https://bit.ly/wsp-dev"
             target="_blank"
             className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border hover:border-green-500 hover:text-green-500"
           >
