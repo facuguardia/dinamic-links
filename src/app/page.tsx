@@ -3,7 +3,7 @@ import Footer from "./components/Footer";
 
 export default function Home() {
   return (
-    <section className="w-screen h-screen bg-custom-image bg-no-repeat bg-center px-4">
+    <section className="w-screen h-screen bg-custom-image bg-no-repeat bg-center px-4 flex justify-center items-center">
       <div className="py-8 lg:text-center">
         <h1 className="mb-4 text-4xl text-right lg:text-center font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl">
           Hola, soy Facu
