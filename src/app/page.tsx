@@ -42,7 +42,7 @@ export default function Home() {
           <Link
             href="https://github.com/facuguardia"
             target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-black"
+            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-gray-500 hover:text-gray-500"
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             Github
