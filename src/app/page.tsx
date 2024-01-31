@@ -24,7 +24,7 @@ export default function Home() {
           <Link
             href="https://www.facebook.com/facu.guardia.86/"
             target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-blue-600 hover:text-blue-600 shadow-2xl"
+            className="bg-white inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-blue-600 hover:text-blue-600 shadow-2xl"
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             Facebook
@@ -33,7 +33,7 @@ export default function Home() {
           <Link
             href="https://www.linkedin.com/in/facu-guardia/"
             target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-blue-400 hover:text-blue-400"
+            className="bg-white inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-blue-400 hover:text-blue-400"
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             LinkedIn
@@ -42,7 +42,7 @@ export default function Home() {
           <Link
             href="https://github.com/facuguardia"
             target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-gray-500 hover:text-gray-500"
+            className="bg-white inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-gray-500 hover:text-gray-500"
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             Github
@@ -51,7 +51,7 @@ export default function Home() {
           <Link
             href="https://facu-dev.vercel.app/"
             target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-yellow-500 hover:text-yellow-500"
+            className="bg-white inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-yellow-500 hover:text-yellow-500"
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             Portfolio
@@ -60,7 +60,7 @@ export default function Home() {
           <Link
             href="https://bit.ly/wsp-dev"
             target="_blank"
-            className="inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-green-500 hover:text-green-500"
+            className="bg-white inline-flex justify-center items-center py-3 px-5 text-base font-bold text-center text-black rounded-lg border border-black hover:border-green-500 hover:text-green-500"
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             WhatsApp
