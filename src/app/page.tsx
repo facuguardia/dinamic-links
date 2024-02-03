@@ -42,7 +42,7 @@ export default function Home() {
           <Link
             href="https://facu-dev.vercel.app/"
             target="_blank"
-            className="inline-flex items-center justify-center px-5 py-3 text-base font-bold text-center text-black bg-white border-2 border-black rounded-lg hover:text-white hover:bg-stackoverflow hover:border-stackoverflow "
+            className="inline-flex items-center justify-center px-5 py-3 text-base font-bold text-center text-black bg-white border-2 border-black rounded-lg hover:text-white hover:bg-black hover:border-black "
             style={{ boxShadow: "0 2px 4px rgba(0, 0, 0, 0.2)" }}
           >
             Portfolio
